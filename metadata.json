@@ -1,0 +1,8 @@
+{
+  "name": "SB POWER ISP - National Edition",
+  "description": "A comprehensive ISP management software themed with Bangladesh National Flag identity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
